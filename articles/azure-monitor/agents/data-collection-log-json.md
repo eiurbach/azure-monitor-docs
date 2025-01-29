@@ -187,7 +187,7 @@ Use the following ARM template to create a DCR for collecting JSON log files, ma
         "timeFormat": {
             "type": "string"
             "metadata": {
-                "discription": "The time format that you would like to use to split multi line imput"
+                "description": "The time format that you would like to use to split multi line input"
             }
       }
     },
